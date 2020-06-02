@@ -1,1 +1,1 @@
-# Decision-Tree-Implementations-with-ID3-and-C4.5-for-Simple-Classification
+# Simple Classification with ID3/C4.5 Decision Tree and Naive Bayes Theorem
