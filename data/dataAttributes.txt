@@ -1,0 +1,16 @@
+| NURSURY class values
+The NURSURY class can only have the following outputs:
+
+not_recom, recommend, very_recom, priority, spec_prior
+
+| attribute values
+Each of the following attributes may only have one of the values listed to the right.
+
+parents:     usual, pretentious, great_pret.
+has_nurs:    proper, less_proper, improper, critical, very_crit.
+form:        complete, completed, incomplete, foster.
+children:    1, 2, 3, more.
+housing:     convenient, less_conv, critical.
+finance:     convenient, inconv.
+social:      nonprob, slightly_prob, problematic.
+health:      recommended, priority, not_recom.

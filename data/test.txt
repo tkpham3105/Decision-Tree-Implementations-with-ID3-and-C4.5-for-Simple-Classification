@@ -1,0 +1,11 @@
+parents,has_nurs,form,children,housing,finance,social,health
+usual,proper,complete,2,less_conv,convenient,problematic,not_recom
+pretentious,very_crit,completed,more,less_conv,inconv,nonprob,priority
+great_pret,proper,incomplete,3,convenient,convenient,slightly_prob,recommended
+pretentious,less_proper,foster,more,convenient,convenient,slightly_prob,recommended
+usual,proper,complete,1,convenient,convenient,slightly_prob,recommended
+usual,critical,foster,1,convenient,convenient,slightly_prob,recommended
+usual,critical,foster,1,convenient,convenient,nonprob,not_recom
+pretentious,very_crit,completed,more,less_conv,inconv,slightly_prob,priority
+pretentious,proper,completed,more,convenient,convenient,nonprob,recommended
+usual,proper,complete,1,convenient,convenient,nonprob,recommended
